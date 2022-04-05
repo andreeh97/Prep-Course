@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+* Variables : Es indicar al servidor que se debe guaradar un espacio en 
+memoria del valor de algo que se utilizara mas tarde.
+
+
+ * Strings: Es una cadena de caracteres la cual siempre debe ir expresada entre comillas.
+ 
+  * Funciones  (argumentos, `return`): Las funciones son las tareas que va a llevar a cabo el navegador. 
+  -Los argumentos: son los valores que recibimos para llevar a cabo una funcion.
+  -El return : Es el valor que retorna nuestra funcion.
+
+ * Declaraciones `if`clear: Nos sirve para poner una codicion a nuestra funcion dependiento de esto 
+  los valores que se retornan seran true o false.
+
+
+* Valores booleanos (`true`, `false`): Estos nos representan un valor de verdad o falsedad (true,false).
