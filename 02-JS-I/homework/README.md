@@ -9,7 +9,7 @@
  * Variables
  * Strings
  * Funciones (argumentos, `return`)
- * Declaraciones `if`
+ * Declaraciones `if`clear
  * Valores booleanos (`true`, `false`)
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
