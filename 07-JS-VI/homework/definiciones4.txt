@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Es un tipo de dato que se utiliza para guardar propiedades y argumentos
+	* Propiedades: Son aquellas contenidas dentro de un objeto las cuales a su vez contienen argumentos (mas objetos)
+	* Métodos: Son funciones que pertenecen a un objeto 
+	* Bucle `for…in`: Se encarga de llevar a cabo tareas repetitivas
+	* Notación de puntos vs notación de corchetes: Son formas de invocar propiedades dentro de un objeto.
